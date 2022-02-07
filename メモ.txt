@@ -1,0 +1,2 @@
+pipenvでjupyter notebook を行う手順
+https://qiita.com/SUZUKI_Masaya/items/76b927b9812d77d33e57
